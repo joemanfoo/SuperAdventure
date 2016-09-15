@@ -3,3 +3,8 @@ c:\users\josep_000\documents\visual studio 2015\Projects\SuperAdventure\Engine\b
 c:\users\josep_000\documents\visual studio 2015\Projects\SuperAdventure\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
 c:\users\josep_000\documents\visual studio 2015\Projects\SuperAdventure\Engine\obj\Debug\Engine.dll
 c:\users\josep_000\documents\visual studio 2015\Projects\SuperAdventure\Engine\obj\Debug\Engine.pdb
+C:\Users\Joe\Documents\GitHub\SuperAdventure\SuperAdventure\Engine\bin\Debug\Engine.dll
+C:\Users\Joe\Documents\GitHub\SuperAdventure\SuperAdventure\Engine\bin\Debug\Engine.pdb
+C:\Users\Joe\Documents\GitHub\SuperAdventure\SuperAdventure\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\GitHub\SuperAdventure\SuperAdventure\Engine\obj\Debug\Engine.dll
+C:\Users\Joe\Documents\GitHub\SuperAdventure\SuperAdventure\Engine\obj\Debug\Engine.pdb
